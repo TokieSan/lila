@@ -9,7 +9,9 @@
       white-space: nowrap;
     }
   }
-
+  li{
+    list-style: auto;
+  }
   .team-name {
     @extend %flex-center;
 
